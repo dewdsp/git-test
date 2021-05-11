@@ -1,0 +1,2 @@
+1. I am in working folder.
+2. Go to "local repo"
